@@ -22,11 +22,6 @@
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151429.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151445.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151516.jpg)<br>
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151535.jpg)<br>
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151541.jpg)<br>
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151547.jpg)<br>
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151552.jpg)<br>
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151623.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151830.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151922.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151929.jpg)<br>
@@ -37,6 +32,12 @@
 
 <a id="chapter-1"></a>
 ## Нижняя плата COVID-2019
+
+![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151535.jpg)<br>
+![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151541.jpg)<br>
+![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151547.jpg)<br>
+![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151552.jpg)<br>
+![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_151623.jpg)<br>
 
 <a id="chapter-2"></a>
 ## Печатные платы

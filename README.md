@@ -29,7 +29,7 @@
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_152004.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_152012.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/20211025_152024.jpg)<br>
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/4.jpg)<br>
+![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/4.jpg)<br>
 
 <a id="chapter-1"></a>
 ## Нижняя плата COVID-2019
@@ -43,4 +43,4 @@
 <a id="chapter-2"></a>
 ## Печатные платы
 
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/3.jpg)<br>
+![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/3.jpg)<br>

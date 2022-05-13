@@ -4,7 +4,7 @@
 * [Печатные платы](#chapter-2)
 
 <a id="chapter-0"></a>
-## Часы COVID-2019 ни ИН-14, ИН-12 с секундными лампами ИН-16, ИН-2
+## Часы COVID-2019 на ИН-14, ИН-12 с секундными лампами ИН-16, ИН-2
  
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/1.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/2.jpg)<br>

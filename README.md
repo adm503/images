@@ -54,3 +54,5 @@
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/E.jpg)<br>
 Плата под 7 ламп. ИН-14, ИН-16 + ИН-19А.
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/F.jpg)<br>
+Универсальная плата под 6 ламп. Можно впаять либо 6шт ИН-14, либо 6шт ИН-12.
+![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/ИН-14_12_mono.jpg)<br>

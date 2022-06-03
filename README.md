@@ -48,6 +48,8 @@
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/3.jpg)<br>
 Плата электроники (нижняя) общая для проекта COVID-19
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/41PzbDosbm4.jpg)<br>
+Вариант C. 4шт ИН-14 + 2шт ИН-16 (секунды)
+Вариант D. 4шт ИН-12 + 2шт ИН-2 (секунды)
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/7.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/8.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/COVID%202019%20V2.jpg)<br>

@@ -57,7 +57,6 @@
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID-19%20v2/CD.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/7.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/8.jpg)<br>
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/COVID%202019%20V2.jpg)<br>
 Вариант C WS2812. 4шт ИН-14 + 2шт ИН-16 (секунды) с подсветкой на ленте WS2812<br>
 Вариант D WS2812. 4шт ИН-12 + 2шт ИН-2 (секунды) с подсветкой на ленте WS2812<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID-19%20v2/CD_WS2812.jpg)<br>
@@ -71,8 +70,7 @@
 Вариант F. 4шт ИН-14 + ИН-19А + 2шт ИН-16 (секунды)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID-19%20v2/EF.jpg)<br>
 Вариант G. Универсальная плата под 6 ламп. Можно впаять либо 6шт ИН-14, либо 6шт ИН-12
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID-19%20v2/EF.jpg)<br>
-![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/G.jpg)<br>
+![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID-19%20v2/G.jpg)<br>
 Вариант H. 6шт ИН-18
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID-19%20v2/H.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/6хИН-18.jpg)<br>

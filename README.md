@@ -50,13 +50,15 @@
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/7.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/8.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/COVID%202019%20V2.jpg)<br>
-Плата под 7 ламп. ИН-14 + ИН-19А.
+Вариант E. 6шт ИН-14 + ИН-19А
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/E.jpg)<br>
-Плата под 7 ламп. ИН-14, ИН-16 + ИН-19А.
+Вариант F. 4шт ИН-14 + ИН-19А + 2шт ИН-16 (секунды)
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/F.jpg)<br>
-Универсальная плата под 6 ламп. Можно впаять либо 6шт ИН-14, либо 6шт ИН-12.
+Вариант G. Универсальная плата под 6 ламп. Можно впаять либо 6шт ИН-14, либо 6шт ИН-12
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/ИН-14_12mono.jpg)<br>
-Платы под ИН-18.
+Вариант H. 6шт ИН-18
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/6хИН-18.jpg)<br>
+Вариант I. 4шт ИН-18 + 2шт ИН-14 (секунды)
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/4хИН-18+2хИН-14.jpg)<br>
+Вариант J. 4шт ИН-18
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/4хИН-18.jpg)<br>

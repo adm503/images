@@ -46,6 +46,7 @@
 ## Печатные платы
 
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/3.jpg)<br>
+Плата электроники (нижняя) общая для проекта COVID-19
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/41PzbDosbm4.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/7.jpg)<br>
 ![PROJECT_PHOTO](https://github.com/adm503/images/blob/main/NixieClock/COVID%202019%20V2/8.jpg)<br>
